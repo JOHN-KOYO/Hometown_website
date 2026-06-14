@@ -123,7 +123,8 @@ p{ text-align:center;}
     margin: 30px auto;
     border-radius: 10px;
     color: black;
-       text-shadow: 0px 0px 5px aqua;
+    border-bottom: 5px;
+    text-shadow: 0px 0px 5px aqua;
 }
     
     
